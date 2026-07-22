@@ -130,7 +130,7 @@ Netflix-Content-Analytics/
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Prepared by
 
 **Mann**
 
