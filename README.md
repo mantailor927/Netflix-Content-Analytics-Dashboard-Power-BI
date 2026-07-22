@@ -132,5 +132,5 @@ Netflix-Content-Analytics/
 
 # 👨‍💻 Prepared by
 
-**Mann**
+**Mann Darji**
 
